@@ -132,7 +132,7 @@ a
 
 #headWrap
 {
-	background: url(../img/slider_logo.png) no-repeat 18% 50%;
+	/*background: url(../img/slider_logo.png) no-repeat 18% 50%;*/
 	width: 100%;
 	border-bottom: 5px solid #176bea;
 }
@@ -166,6 +166,7 @@ header nav ul
 {
 	display: table;
 	width: 100%;
+	padding: 0;
 }
 
 header nav ul li
